@@ -1,2 +1,3 @@
 # show-twitter-picture-bot
-製作中
+勝手にDiscord君が戻しやがったから作るいみなくなった
+まあないほうがらくだけど
